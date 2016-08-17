@@ -1,0 +1,20 @@
+h2 {
+  color: white;
+  font-family: Comic Sans MS;
+  font-size: 56px;
+}
+p {
+  color: white;
+  font-family: Comic Sans MS;
+  font-size: 30px;
+}
+
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+}
+
+#city {
+  border: 0px;
+  background: transperant;
+}
